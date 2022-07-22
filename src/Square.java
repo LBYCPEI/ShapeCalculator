@@ -1,8 +1,8 @@
 public class Square extends Shape{
 
-    private int lengthOfSide;
+    private double lengthOfSide;
 
-    public void setLengthOfSide(int lengthOfSide) {
+    public void setLengthOfSide(double lengthOfSide) {
         this.lengthOfSide = lengthOfSide;
     }
 
