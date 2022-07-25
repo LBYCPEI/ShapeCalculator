@@ -7,7 +7,6 @@ Design a Java Console-based OOP application that shows a menu and calculates the
 ## Sample Run:
 
 ```txt
-Sample Run:
 ============== MAIN MENU ===============
      1. Square Computations 
      2. Rectangle Computations
